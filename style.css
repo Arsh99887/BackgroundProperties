@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+h1{
+   
+
+        display: inline-block;
+        width:400px;
+        height: 60px;
+        color: white;
+        border:none;  
+        text-align: center; 
+        padding-top: 40PX;
+        margin-left: 80PX;
+
+}
+
+P{
+   
+
+        display: inline-block;
+        width: 200px;
+    margin-top: 40PX;
+        height:60PX;
+        color: BLACK;
+        background-color: white;
+        border:none;  
+        text-align: center; 
+        font-size:30PX;
+        padding-top: 20PX;
+        margin-left: 80PX;
+}
+
+.header{
+    background-color: rgb(38, 36, 36);
+    box-shadow: whitesmoke;
+    height: 160px;
+    box-shadow: 0 10px 20px rgba(62, 58, 58, 0.6); /* White shadow at the bottom */
+    width: 100%;
+    display: flex;
+}
+
+.twomain{
+    border:1px solid black;
+height: 1000px;
+width: 100%;
+background-color: white;
+display: flex;
+}
+
+.Pic2 {
+    margin-top: 30px;
+    margin-left: 30px;
+    display: flex;
+    width: 30%;
+    text-align: center;
+}
+
+.Pic3 , .Pic4,.Pic5{
+margin-top: 40px;
+margin-left: 100px;
+display: flex;
+width: 30%;
+text-align: center;
+}
+
+.thirdmain{
+    border:1px solid black;
+height: 1000px;
+width: 100%;
+background-color:black;
+display: flex;
+}
+
+.content{
+  width: 45%;
+    margin-top: 300px;
+    /* border: 1px solid white; */
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 10px;
+    color: white;
+    display: flex;
+
+}
+h2{
+    font-family:Arial;
+}
+
+.Pic5{
+    width: 50%;
+    margin-top: 100px;
+    margin-right: 250px;
+}
